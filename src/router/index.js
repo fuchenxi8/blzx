@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Login from '../components/Login.vue'
+import workstation from '../components/workstation.vue'
 
 
 Vue.use(VueRouter)
@@ -8,6 +9,7 @@ Vue.use(VueRouter)
 const routes = [
   //将初始页面重定向到login页面
  { path:'/',redirect: '/login'},
+ { path: '/workstation', component: workstation},
  { path: '/login', component: Login}
 ]
 

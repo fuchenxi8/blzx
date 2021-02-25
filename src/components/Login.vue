@@ -44,9 +44,13 @@ export default {
     methods: {
       onSubmit() {
         console.log('管理登录');
+         //跳转页面
+         this.$router.push("/workstation");
       },
       onSubmit1() {
         console.log('登录');
+         //跳转页面
+         this.$router.push("/workstation");
       },
     }
 }
@@ -55,7 +59,7 @@ export default {
 <style lang="less" scoped>
 .login_container {
   background-color: #2b4b6b;
-  height: 900px;
+  height: 100vh;
 }
 
 .login_box {
