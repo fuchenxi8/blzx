@@ -22,6 +22,7 @@ const routes = [
   //将初始页面重定向到login页面
  { path:'/',redirect: '/login'},
  { path: '/login', component: Login},
+//  { path: '/componentms/demo', component: demo3},
  { 
    path: '/workstation', 
    component: workstation,
@@ -31,15 +32,8 @@ const routes = [
      components: {
        workstationm:workstationm
      },
-     redirect: '/caseinformation',
-     children: [{
-       path: '/caseinformation',
-       name:caseinformation,
-         components: {
-          caseinformation: caseinformation
-         }
-     }]
-   }]
+    //  redirect: '/newfile',
+    }]
   },
 
  { 

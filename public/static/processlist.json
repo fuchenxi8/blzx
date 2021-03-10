@@ -1,0 +1,22 @@
+{
+  "status":"0",
+  "result": [{
+    "prop": "bottom",
+    "label": "报告底单"
+  },{
+    "prop": "basedon",
+    "label": "取材记录"
+  },{
+    "prop": "delay",
+    "label": "切片信息"
+  },{
+    "prop": "diagnosis",
+    "label": "技术医嘱"
+  },{
+    "prop": "audit",
+    "label": "特检医嘱"
+  },{
+    "prop": "audit",
+    "label": "延期原因"
+  }]
+}

@@ -13,7 +13,7 @@
             </el-select>
           </el-form-item>
           <el-form-item>
-            <el-input placeholder="密码"  v-model="ruleForm.name"></el-input>
+            <el-input placeholder="密码"  v-model="ruleForm.name" show-password></el-input>
           </el-form-item>
           <!-- 按钮 -->
           <el-form-item>

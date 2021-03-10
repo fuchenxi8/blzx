@@ -1,0 +1,33 @@
+{
+  "status":"0",
+  "result": [{
+    "type": "select",
+    "prop": "type",
+    "label": "医嘱类型",
+    "options":[
+      {"value": "0","name":"常规"},
+      {"value": "1","name":"补取"},
+      {"value": "2","name":"重切"},
+      {"value": "3","name":"深切"},
+      {"value": "4","name":"薄切"},
+      {"value": "5","name":"全切"},
+      {"value": "6","name":"重做"},
+      {"value": "7","name":"不削连切"}
+    ]
+  },{
+    "type": "select",
+    "prop": "waxblock",
+    "label": "蜡块",
+    "options":[
+      {"value": "0","name":"条目一"},
+      {"value": "1","name":"条目二"},
+      {"value": "2","name":"条目三"},
+      {"value": "3","name":"条目四"}
+    ]
+  },{
+    "type": "input",
+    "prop": "markers",
+    "label": "标记物"
+  }
+]
+}

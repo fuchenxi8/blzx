@@ -1,0 +1,23 @@
+{
+  "result": [{
+    "usm":"0",
+    "prop": "pathId",
+    "title": "病理号"
+  },{
+    "usm":"1",
+    "prop": "name",
+    "title": "姓名"
+  },{
+    "usm":"2",
+    "prop": "gender",
+    "title": "性别"
+  },{
+    "usm":"3",
+    "prop": "age",
+    "title": "年龄"
+  },{
+    "usm":"4",
+    "prop": "hospitalId",
+    "title": "住院号"
+  }]
+}
