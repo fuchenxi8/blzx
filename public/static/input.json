@@ -1,0 +1,177 @@
+{
+  "status":"0",
+  "result": [{
+    "type": "input",
+    "prop": "frozenId",
+    "label": "冰冻ID"
+  },{
+    "type": "input",
+    "prop": "hisId",
+    "label": "HISID"
+  },{
+    "type": "input",
+    "prop": "applicationId",
+    "label": "申请号"
+  },{
+    "type": "input",
+    "prop": "patientId",
+    "label": "病人ID"
+  },{
+    "type": "input",
+    "prop": "pathId",
+    "label": "病理号"
+  },{
+    "type": "input",
+    "prop": "medicalId",
+    "label": "体检号"
+  },{
+    "type": "input",
+    "prop": "outpatientId",
+    "label": "门诊号"
+  },{
+    "type": "input",
+    "prop": "hospitalId",
+    "label": "住院号"
+  },{
+    "type": "input",
+    "prop": "name",
+    "label": "姓名"
+  },{
+    "type": "input",
+    "prop": "gender",
+    "label": "性别"
+  },{
+    "type": "input",
+    "prop": "age",
+    "label": "年龄"
+  },{
+    "type": "input",
+    "prop": "national",
+    "label": "民族"
+  },{
+    "type": "input",
+    "prop": "maritalStatus",
+    "label": "婚否"
+  },{
+    "type": "input",
+    "prop": "professional",
+    "label": "职业"
+  },{
+    "type": "input",
+    "prop": "nativePlace",
+    "label": "籍貫"
+  },{
+    "type": "input",
+    "prop": "cardId",
+    "label": "身份证号"
+  },{
+    "type": "input",
+    "prop": "contactInformation",
+    "label": "联系信息"
+  },{
+    "type": "input",
+    "prop": "lastMenstruation",
+    "label": "末次月经"
+  },{
+    "type": "input",
+    "prop": "menopause",
+    "label": "绝经"
+  },{
+    "type": "input",
+    "prop": "inspectionUnit",
+    "label": "送检单位"
+  },{
+    "type": "input",
+    "prop": "inspectionDepart",
+    "label": "送检科室"
+  },{
+    "type": "input",
+    "prop": "inspectionDoctor",
+    "label": "送检医生"
+  },{
+    "type": "input",
+    "prop": "inspectionDate",
+    "label": "送检日期"
+  },{
+    "type": "input",
+    "prop": "ward",
+    "label": "病区"
+  },{
+    "type": "input",
+    "prop": "bedId",
+    "label": "床号"
+  },{
+    "type": "input",
+    "prop": "specimenYype",
+    "label": "标本类型"
+  },{
+    "type": "input",
+    "prop": "specimenIs",
+    "label": "标本情况"
+  },{
+    "type": "input",
+    "prop": "specimenName",
+    "label": "标本名称"
+  },{
+    "type": "input",
+    "prop": "unqualifiedWhy",
+    "label": "不合格原因"
+  },{
+    "type": "input",
+    "prop": "specimenReceive",
+    "label": "标本接收"
+  },{
+    "type": "input",
+    "prop": "costCategories",
+    "label": "费别"
+  },{
+    "type": "input",
+    "prop": "charge",
+    "label": "收费"
+  },{
+    "type": "input",
+    "prop": "basedDoctor",
+    "label": "取材医生"
+  },{
+    "type": "input",
+    "prop": "receivingDate",
+    "label": "接收日期"
+  },{
+    "type": "input",
+    "prop": "clinicalDiagnosis",
+    "label": "临床诊断"
+  },{
+    "type": "textarea",
+    "prop": "medicalAbstract",
+    "label": "病史摘要"
+  },{
+    "type": "textarea",
+    "prop": "surgerySee",
+    "label": "手术所见"
+  },{
+    "type": "textarea",
+    "prop": "consultationOpinion",
+    "label": "会诊意见"
+  },{
+    "type": "textarea",
+    "prop": "supplementaryReport",
+    "label": "补充报告"
+  },{
+    "type": "textarea",
+    "prop": "clinicalDiagnosis",
+    "label": "冰冻报告"
+  },{
+    "type": "textarea",
+    "prop": "diagnosisRecord",
+    "label": "诊断记录"
+  },{
+    "type": "determine",
+    "prop": "determine",
+    "label": "确定"
+  },{
+    "type": "cancel",
+    "prop": "cancel",
+    "label": "取消"
+  }
+]
+}

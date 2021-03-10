@@ -1,0 +1,19 @@
+{
+  "status":"0",
+  "result": [{
+    "id": "pathId",
+    "title": "病理号"
+  },{
+    "id": "name",
+    "title": "姓名"
+  },{
+    "id": "gender",
+    "title": "性别"
+  },{
+    "id": "age",
+    "title": "年龄"
+  },{
+    "id": "hospitalId",
+    "title": "住院号"
+  }]
+}

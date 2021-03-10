@@ -1,0 +1,61 @@
+{
+  "query1":[
+  [
+    {
+      "name":"zlname",
+      "type":"select",
+      "options":[
+        {"value": "常规","label":"常规"},
+        {"value": "冰冻","label":"冰冻"},
+        {"value": "细胞","label":"细胞"},
+        {"value": "特检","label":"特检"}
+      ],
+      "title":"常规",
+      "span":8
+    },
+    {
+      "name":"hisId",
+      "type":"input",
+      "title":"HISID",
+      "span":8
+    }
+  ],
+  [
+    {
+      "name":"value1",
+      "type":"date",
+      "title":"选择开始日期",
+      "span":8
+    },
+    {
+      "name":"value2",
+      "type":"date",
+      "title":"选择结束日期",
+      "span":8
+    }
+  ],
+  [
+    {
+      "name":"allms",
+      "type":"select",
+      "options":[
+        {"value": "全部","label":"全部"}
+      ],
+      "title":"全部",
+      "span":8
+    },
+    {
+      "name":"myms",
+      "type":"select",
+      "options":[
+        {"value": "我的","label":"我的"}
+      ],
+      "title":"我的",
+      "span":8
+    }
+  ]
+],
+"query2":[]
+}
+
+

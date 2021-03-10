@@ -1,0 +1,41 @@
+{
+  "status":"0",
+  "result": [{
+    "type": "input",
+    "prop": "type",
+    "label": "类型"
+  },{
+    "type": "input",
+    "prop": "waxblock",
+    "label": "蜡块"
+  },{
+    "type": "input",
+    "prop": "markers",
+    "label": "标记物"
+  },{
+    "type": "input",
+    "prop": "number",
+    "label": "数量"
+  },{
+    "type": "input",
+    "prop": "analysis",
+    "label": "分析结果"
+  },{
+    "type": "input",
+    "prop": "applyDoctor",
+    "label": "申请医生"
+  },{
+    "type": "input",
+    "prop": "applyDate",
+    "label": "申请日期"
+  },{
+    "type": "input",
+    "prop": "state",
+    "label": "状态"
+  },{
+    "type": "input",
+    "prop": "charge",
+    "label": "收费情况"
+  }
+]
+}

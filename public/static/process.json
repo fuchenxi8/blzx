@@ -1,0 +1,19 @@
+{
+  "status":"0",
+  "result": [{
+    "id": "login",
+    "title": "登录"
+  },{
+    "id": "basedon",
+    "title": "取材"
+  },{
+    "id": "delay",
+    "title": "延期"
+  },{
+    "id": "diagnosis",
+    "title": "诊断"
+  },{
+    "id": "audit",
+    "title": "审核"
+  }]
+}

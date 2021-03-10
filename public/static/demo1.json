@@ -1,0 +1,22 @@
+{
+  "status":"0",
+  "result": [{
+    "pathId": "bl0001",
+    "name": "张宇",
+    "gender": "男",
+    "age": "28",
+    "hospitalId": "zy0001"
+  },{
+    "pathId": "bl0002",
+    "name": "张末",
+    "gender": "女",
+    "age": "22",
+    "hospitalId": "zy0002"
+  },{
+    "pathId": "bl0003",
+    "name": "杨柳",
+    "gender": "女",
+    "age": "22",
+    "hospitalId": "zy0003"
+  }]
+}

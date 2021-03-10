@@ -1,0 +1,53 @@
+{
+  "status":"0",
+  "result": [{
+    "type": "input",
+    "prop": "taskSource",
+    "label": "任务来源"
+  },{
+    "type": "input",
+    "prop": "serialId",
+    "label": "序号"
+  },{
+    "type": "input",
+    "prop": "basedSite",
+    "label": "取材部位"
+  },{
+    "type": "input",
+    "prop": "number",
+    "label": "数量"
+  },{
+    "type": "input",
+    "prop": "note",
+    "label": "备注"
+  },{
+    "type": "input",
+    "prop": "basedDoctor",
+    "label": "取材医生"
+  },{
+    "type": "input",
+    "prop": "baseDate",
+    "label": "取材日期"
+  },{
+    "type": "input",
+    "prop": "productionStatus",
+    "label": "制片状态"
+  },{
+    "type": "input",
+    "prop": "woodCheck",
+    "label": "材块核对"
+  },{
+    "type": "input",
+    "prop": "checkTime",
+    "label": "核对时间"
+  },{
+    "type": "input",
+    "prop": "embeddingTime",
+    "label": "包埋时间"
+  },{
+    "type": "input",
+    "prop": "embeddingPeople",
+    "label": "包埋人"
+  }
+]
+}

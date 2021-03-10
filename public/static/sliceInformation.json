@@ -1,0 +1,49 @@
+{
+  "status":"0",
+  "result": [{
+    "type": "input",
+    "prop": "taskSource",
+    "label": "任务来源"
+  },{
+    "type": "input",
+    "prop": "taskSource",
+    "label": "蜡块号"
+  },{
+    "type": "input",
+    "prop": "slicingBarNumber",
+    "label": "切片条码号"
+  },{
+    "type": "input",
+    "prop": "sectionShows",
+    "label": "切片说明"
+  },{
+    "type": "input",
+    "prop": "sliceRating",
+    "label": "切片评级"
+  },{
+    "type": "input",
+    "prop": "ADVERSEFACTORS",
+    "label": "不良因素"
+  },{
+    "type": "input",
+    "prop": "ratingPeople",
+    "label": "评级人"
+  },{
+    "type": "input",
+    "prop": "note",
+    "label": "备注"
+  },{
+    "type": "input",
+    "prop": "sliceState",
+    "label": "切片状态"
+  },{
+    "type": "input",
+    "prop": "sliceOperator",
+    "label": "切片操作人"
+  },{
+    "type": "input",
+    "prop": "SliceTime",
+    "label": "切片时间"
+  }
+]
+}
